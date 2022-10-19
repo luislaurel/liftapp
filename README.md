@@ -48,6 +48,7 @@
 ## Built with
 <ul>
 <li>React in Rails</li>
+<li>Devise for Authorization/Authentication</li>
 </ul>
 
 ## Dependencies
