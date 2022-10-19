@@ -75,25 +75,3 @@
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
 
-## Contributors
-
-- **Project Manager - Joyce Magistrado** - [LinkedIn](https://www.linkedin.com/in/joyce-magistrado/) - [GitHub](https://github.com/jmagistrado)
-
-- **Product Manager - Luis Laurel** - [LinkedIn](https://www.linkedin.com/in/luislaurel/) - [GitHub](https://github.com/luislaurel)
-
-- **Tech Lead - Cody Mundy** - [LinkedIn](https://www.linkedin.com/in/cody-l-mundy/) - [GitHub](https://github.com/HeavyArms0511)
-
-- **Design Lead - Jason Brown** - [LinkedIn]() - [GitHub](https://github.com/jayaries329)
-
-## Special shoutouts
-
-<p>A special thank you to all the LEARN Academy instructors who have helped us get this far! It has been an amazing journey and now ourselves as FullStack Devs will go even further!❤️</p>
-
-- [LEARN Academy](https://www.learnacademy.org/) 
-
-- Our Instructors!
-- [Austin Walker](https://www.linkedin.com/in/walkertexas-coder/)
-- [Charlean Baxter](https://www.linkedin.com/in/cmb-charlean-baxter/)
-
-- Mentor : Ryan Lewis - Gave us newfound git knowledge and helped us work through blockers 🖥️ 🖱️
-
